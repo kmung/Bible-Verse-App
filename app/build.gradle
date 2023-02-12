@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'edu.oru.cit352.ckmung1.bibleverseapp'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "edu.oru.cit352.ckmung1.bibleverseapp"
         minSdk 27
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
