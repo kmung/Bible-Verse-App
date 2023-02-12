@@ -9,7 +9,7 @@ import java.util.Random; // for the Random class
 
 public class MainActivity extends AppCompatActivity {
 
-    // instantiate a string to hold the random quotes
+    // instantiate a string to hold the random verses
     String randomVerse = "";
 
     @Override
