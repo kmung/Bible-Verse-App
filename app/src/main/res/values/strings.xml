@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bible Verse App</string>
+    <string name="greet_message">Bible Quote of the App!</string>
+    <string name="bible_verse_1">Proverbs 3:3 "Let not mercy and truth forsake thee: Bind them about thy neck; Write them upon the table of thine heart."</string>
+    <string name="bible_verse_2">Joshua 1:9 "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest."</string>
+    <string name="bible_verse_3">Psalm 1:1 "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners,
+Nor sitteth in the seat of the scornful."</string>
+    <string name="bible_verse_4">John 3:16 "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."</string>
+    <string name="bible_verse_5">Matthew 28:6 "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."</string>
+    <string name="bible_verse_6">Ecclesiastes 12:13 "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."</string>
+    <string name="bible_verse_7">Matthew 5:14 "Ye are the light of the world. A city that is set on an hill cannot be hid."</string>
+    <string name="bible_verse_8">Matthew 5:44 "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you"</string>
+    <string name="bible_verse_9">Matthew 7:12 "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."</string>
+    <string name="bible_verse_10">John 14:6 "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."</string>
+    <string name="bible_verse_11">John 15:1 "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."</string>
+    <string name="bible_verse_12">John 15:12 "This is my commandment, That ye love one another, as I have loved you."</string>
+</resources>
