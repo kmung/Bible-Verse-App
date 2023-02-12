@@ -2,6 +2,7 @@ package edu.oru.cit352.ckmung1.bibleverseapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.widget.TextView;
 
@@ -78,6 +79,8 @@ public class MainActivity extends AppCompatActivity {
         // get the text view to display the verse
         TextView verseDisplay = findViewById(R.id.textVerse);
         // displays the verse at the text view
-        verseDisplay.setText(randomVerse);
+        Resources res = getResources(); // asks the system for access to the values files
+        String displayVerse = res.getString(R.string.display_verse, randomVerse);
+        verseDisplay.setText(displayVerse);
     }
 }
