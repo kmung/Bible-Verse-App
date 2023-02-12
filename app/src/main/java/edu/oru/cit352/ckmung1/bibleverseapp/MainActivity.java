@@ -75,7 +75,9 @@ public class MainActivity extends AppCompatActivity {
                 randomVerse = getString(R.string.bible_verse_hint);
         }
 
+        // get the text view to display the verse
         TextView verseDisplay = findViewById(R.id.textVerse);
+        // displays the verse at the text view
         verseDisplay.setText(randomVerse);
     }
 }
